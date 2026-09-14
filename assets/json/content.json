@@ -1,0 +1,9 @@
+{
+  "schedule": [
+    {"plant": "Orchid", "date": "2023-11-01T00:00:00Z"}
+  ],
+  "environment": {
+    "temp": "24C",
+    "humidity": "60%"
+  }
+}
