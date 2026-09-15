@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'zelvora_shell.dart';
+import 'zelvora_app.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
